@@ -17,7 +17,7 @@ O  Kafka pode possuir vários tópicos, que são formas de separar as mensagens 
 
 
 ## Consumidor
-sistema que rece a mensagem do kafka. Um consumidor sempore se inscreve em um tópico e recebe, por meio kafka, as mensagens enviadas para esse tópico.
+sistema que recebe a mensagem do kafka. Um consumidor sempore se inscreve em um tópico e recebe, por meio kafka, as mensagens enviadas para esse tópico.
 
 
 ## Vantagem dos sistemas de filas

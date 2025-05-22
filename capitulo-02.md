@@ -81,7 +81,7 @@ Esse comando iniciará um Consumidor de mensagens, cada mensagem digitada será 
 podemos criar mensagem para os tópicos
 
 ``` bash
-eduardo@eduardo:~/dev/kafka_2.13-2.8.0$ bin/kafka-console-consume
+bin/kafka-console-consume
 r.sh --topic topico-teste --bootstrap-server localhost:9092
 mensagem1
 mensagem2
